@@ -6,17 +6,17 @@ I'm Austin, a software engineer from the UK. I'm mainly interested in backend an
 
 ## My Projects 📽️
 
-### k3s Cluster on Oracle Cloud Infrastructure (OCI)
+### k3s Cluster on Oracle Cloud Infrastructure (OCI) ☁️ 
 Repos: [cluster](https://github.com/abayleypublic/cluster) | [apps](https://github.com/abayleypublic/apps)
 
 I have deployed a k3s cluster on Oracle Cloud to host my applications and projects. I saw this as an opportunity to learn more about building a Kubernetes cluster using IaC. The cluster is bootstrapped using Terraform, a TaskFile is then used to install required dependencies at which point everything else is deployed via ArgoCD.
 
-### Queue
+### Queue 📋
 Repos: [queue](https://github.com/abayleypublic/queue)
 
 Queue is a system to enable natural language modifications to queues. It is purposefully over-engineered to allow for discovery around AI, Temporal, MCP servers and observability.
 
-### Roam to Rome / Activity Tracker
+### Roam to Rome / Activity Tracker 🇮🇹
 Links: [production](https://roam.austinbayley.co.uk)
 
 Repos: [frontend](https://github.com/abayleypublic/activity_tracker_charity) | [backend](https://github.com/abayleypublic/activity_tracker_api)
