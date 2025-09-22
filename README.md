@@ -11,6 +11,7 @@ I'm Austin, a software engineer from the UK. I'm mainly interested in backend an
 - Cloud: Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI)
 - Observability: OpenTelemetry, Grafana Cloud
 - AI: OpenAI
+- Security: Snyk
 - Misc: gRPC, REST
 
 ## My Projects 📽️
