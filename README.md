@@ -7,7 +7,7 @@ I'm Austin, a software engineer from the UK. I'm mainly interested in backend an
 ## My Tech Stack
 
 - Languages: Golang, TypeScript, Python
-- Platform: Kubernetes, Docker, ArgoCD, Temporal
+- Platform: Kubernetes, Docker, ArgoCD, Temporal, Cloudflare
 - Cloud: Google Cloud Platform (GCP), Oracle Cloud Infrastructure (OCI)
 - Observability: OpenTelemetry, Grafana Cloud
 - AI: OpenAI
