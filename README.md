@@ -1,10 +1,8 @@
 ## Hi there 👋
 
+Links: [LinkedIn](https://www.linkedin.com/in/austin-bayley/)
+
 I'm Austin, a software engineer from the UK. I'm mainly interested in backend and platform technologies although dabble in creating (curiously designed) user interfaces.
-
-## Links
-
-[LinkedIn](https://www.linkedin.com/in/austin-bayley/)
 
 ## My Projects 📽️
 
