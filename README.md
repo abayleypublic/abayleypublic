@@ -16,10 +16,10 @@ I'm Austin, a software engineer from the UK. I'm mainly interested in backend an
 
 ## My Projects 📽️
 
-### ☁️ k3s Cluster on Oracle Cloud Infrastructure (OCI) 
+### ☁️ K3s Cluster on Oracle Cloud Infrastructure (OCI) 
 Repos: [cluster](https://github.com/abayleypublic/cluster) | [apps](https://github.com/abayleypublic/apps)
 
-I have deployed a k3s cluster on Oracle Cloud to host my applications and projects. I saw this as an opportunity to learn more about building a Kubernetes cluster using IaC. The cluster is bootstrapped using Terraform, a TaskFile is then used to install required dependencies at which point everything else is deployed via ArgoCD. Authentication is managed using Auth0 with OAuth2 Proxy.
+I have deployed a K3s cluster on Oracle Cloud to host my applications and projects. I saw this as an opportunity to learn more about building a Kubernetes cluster using IaC. The cluster is bootstrapped using Terraform, a TaskFile is then used to install required dependencies at which point everything else is deployed via ArgoCD. Authentication is managed using Auth0 with OAuth2 Proxy.
 
 ### 📋 Queue
 Repos: [queue](https://github.com/abayleypublic/queue)
