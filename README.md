@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-## My Projects
+I'm Austin, a software engineer from the UK. I'm mainly interested in backend and platform technologies although dabble in creating (curiously designed) user interfaces.
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/austin-bayley/)
+
+## My Projects 📽️
 
 ### k3s Cluster on Oracle Cloud Infrastructure (OCI)
 Repos: [cluster](https://github.com/abayleypublic/cluster) | [apps](https://github.com/abayleypublic/apps)
@@ -18,18 +24,3 @@ Links: [production](https://roam.austinbayley.co.uk)
 Repos: [frontend](https://github.com/abayleypublic/activity_tracker_charity) | [backend](https://github.com/abayleypublic/activity_tracker_api)
 
 A service developed to enable tracking of activities against a challenge. I used this to track activities for a charity drive I completed by virtually walking the round trip of the distance from London to Rome, raising over £2500 in aid of Mind, a mental health charity.
-
-<!--
-**abayleypublic/abayleypublic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
